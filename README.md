@@ -17,7 +17,7 @@ Use the command `slmgr /ipk yourlicensekey` to install a license key (`yourlicen
 **Education**: `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2`\
 **Education N**: `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ`\
 **Enterprise**: `NPPR9-FWDCX-D2C8J-H872K-2YT43`\
-**Enterprise N**: `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4`\
+**Enterprise N**: `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4`
 
 ###### Set KMS Machine Address
 Use the command `slmgr /skms kms8.msguides.com` to connect to MSGUIDES KMS server.
